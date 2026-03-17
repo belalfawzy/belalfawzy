@@ -34,7 +34,7 @@ var developer = new Developer
     Location   = "Cairo, Egypt 🇪🇬",
     Education  = "BSc Computer Science — El Shorouk Academy",
     Role       = "Backend Head @ Developer Student Club",
-    Focus      = new[] { ".NET", "React", "Next.js", "Machine Learning" },
+    Focus      = new[] { ".NET", "React", "Node.js", "Machine Learning" },
     CurrentlyLearning = new[] { "Node.js", "MongoDB", "ML Architectures" },
     OpenToWork = true
 };
